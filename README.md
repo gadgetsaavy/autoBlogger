@@ -1,11 +1,12 @@
 # Ghost Autoblogger Bot 🤖
 
 An automated content generation system for Ghost blogs that fetches AI news, translates them to French, and publishes them automatically using OpenAI's GPT-4o.
+**Note** This has been changed to create English articles.
 
 ## Features
 
-- 🔄 Automatically fetches the latest AI news using NewsAPI
-- 🤖 Generates high-quality French articles using OpenAI's GPT-4o
+- 🔄 Automatically fetches the latestCrypto & AI news using NewsAPI
+- 🤖 Generates high-quality French (changed to English) articles using OpenAI's GPT-4o
 - 🖼️ Adds relevant featured images from Unsplash
 - 📝 Saves articles locally as markdown files
 - 🚀 Publishes directly to your Ghost blog
